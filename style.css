@@ -1,0 +1,41 @@
+body{
+	background: rgb(109, 48, 7);
+	color:rgba(131, 224, 94, 0.808);
+}
+
+.ubahFont{
+	font-family: Verdana;
+	font-style: normal;
+}
+
+#garis-garis{
+    border-style: ridge;
+	border-width: 10px;
+	border-color:red;
+}
+
+#top-border{
+    border-top: 5px solid royalblue; 
+}
+
+.hyperlink{
+    color: rgb(38, 173, 128);
+}
+
+.part1{
+    font-family: Courier;
+    font-style: oblique;
+    background:rgb(88, 84, 42)
+}
+
+.part2{
+    font-family: Geneva;
+    font-style: normal;
+    background:rgb(8, 14, 49)
+}
+
+#part3{
+    font-family: sans-serif;
+    font-style: oblique;
+    background:rgb(12, 91, 97)
+}   
